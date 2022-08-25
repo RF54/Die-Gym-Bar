@@ -20,7 +20,8 @@ hr{
 }
 p{
   margin: 0 auto 50px;
-  width: 30%;
+  width: 40%;
+  font-size: 1.5rem;
   color: #2C3639;
 }
 img{
@@ -29,9 +30,11 @@ img{
 }
 h1{
   color:#FF9551;
+  font-size: 2.5rem;
 }
 h2{
   color:#FF9551;
+  font-size: 2rem;
 }
 .social{
   width: 30px;
